@@ -15,13 +15,13 @@
 .
 ├── AlloPod.java						
 ├── Allocation.java
-├── AllocationStrategy.java				scheduler入口
-├── CalculateReschedule.java			reschedule主体代码
-├── CalculateSchedule.java				schedule主体代码
+├── AllocationStrategy.java       scheduler入口
+├── CalculateReschedule.java      reschedule主体代码
+├── CalculateSchedule.java        schedule主体代码
 ├── DPTrail.java
 ├── MigratePod.java
-├── NodeAndPod.java						节点信息（包括部署的Pods）
+├── NodeAndPod.java               节点信息（包括部署的Pods）
 ├── PendingMigratePod.java
-└── Utils.java							工具类，主要是判断资源等约束条件
+└── Utils.java                    工具类，主要是判断资源等约束条件
 ```
 
